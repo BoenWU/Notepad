@@ -35,9 +35,6 @@
 	
 	//安装成功后再看看是否可以正确运行了
 
-github地址：[https://github.com/lin-xin/notepad](https://github.com/lin-xin/notepad)
-
-demo地址：[http://test.omwteam.com/](http://test.omwteam.com/)
 
 **一、目录结构**
 
